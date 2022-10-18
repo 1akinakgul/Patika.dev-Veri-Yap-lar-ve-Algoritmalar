@@ -8,7 +8,7 @@
 
  [2,6,16,18|,22,27] -> 22 ve 18 yer değiştirdi.
 
- [2,6,16,18,22|,27] -> Sıralamadaki yeri doğru olduğu için 22 sayısının yeri değişmedi.
+ [2,6,16,18,22|,27] -> Sıralamadaki yeri doğru olduğu icin 22 sayısının yeri değişmedi.
  [2,6,16,18,22,27]  -> Sıralamadaki yeri doğru olduğu için 27 sayısının yeri değişmedi ve sıralama tamamlanmış oldu.
 
  Big O gösterimini yapınız.
@@ -16,9 +16,7 @@
  Big O = O(n²)
  Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-18 sayısı başta ve sonda olmadığı için Average Case kapsamına girer.
-
-
+ 18 sayısı başta ve sonda olmadığı için Average Case kapsamına girer.
 
  [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
