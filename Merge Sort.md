@@ -16,3 +16,5 @@ Big-O gösterimini yazınız.
   # Big-O gösterimini yapınız.
   
   O(nlogn)
+
+www.patika.dev
