@@ -33,4 +33,6 @@ O(n²)
 
 [2,3,4,8,7,9,5,15,6] -> 4 sayısı kalan sayılar arasında en küçüğü olduğu için 5 ile yerini değiştiriyoruz.
 
-[2,3,4,5,7,9,8,15,6] -> 5 sayısı kalan sayılar arasında en küçüğü olduğu için 8 ile yerini değiştiriyoruz
+[2,3,4,5,7,9,8,15,6] -> 5 sayısı kalan sayılar arasında en küçüğü olduğu için 8 ile yerini değiştiriyoruz.
+
+www.patika.dev
